@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Payments</string>
+
+    <string name="your_cards">Your Cards</string>
+    <string name="your_card_list">List of all saved credit cards</string>
+    <string name="add_new">Add new</string>
+    <string name="purchase">Purchase</string>
+    <string name="save_card">Save Card</string>
+    <string name="cvv">CVV</string>
+    <string name="expiration_date">Expiration Date</string>
+    <string name="card_number">Card Number</string>
+    <string name="invalid_card_number">Invalid card number</string>
+    <string name="invalid_expiration_date">Invalid expiration date</string>
+    <string name="invalid_cvv">Invalid cvv</string>
+    <string name="payment_completed">Payment Is Completed</string>
+</resources>

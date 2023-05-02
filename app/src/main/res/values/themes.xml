@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Payments" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/blue_600</item>
+        <item name="colorPrimaryVariant">@color/blue_600</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="CompletionDialogStyle">
+        <item name="android:windowEnterAnimation">@anim/bottom_up_slide</item>
+        <item name="android:windowExitAnimation">@anim/up_bottom_slide</item>
+    </style>
+
+    <style name="TextAppearance.Payments.Subtitle" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textColor">@color/black_40</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+</resources>
